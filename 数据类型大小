@@ -1,0 +1,9 @@
+byte 1字节  short 2字节  int 4字节 long 8字节
+
+char 2字节 存放单个字符 ‘a’
+boolean 1字节 存放ture，false
+
+//引用数据类型： 
+类（class）接口（interface）数组[];
+
+1byte=1字节=8位
